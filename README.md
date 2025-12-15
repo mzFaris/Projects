@@ -91,7 +91,7 @@ Classic Algorithms
 
 - [ ] **Collatz Conjecture** - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
 
-- [ ] **Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort.
+- [x] **Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort.
 
 - [ ] **Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given *n* points in metric space, find a pair of points with the smallest distance between them.
 
@@ -274,3 +274,4 @@ Security
 -------------
 
 - [ ] **Caesar cipher** - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys.
+
